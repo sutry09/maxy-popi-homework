@@ -1,0 +1,4 @@
+Your code is good in general, but you need to be careful with inputs.
+
+You should always convert inputs to float unless you are sure you only need an integer  - for example if you were
+asking for the number of people at an event.
