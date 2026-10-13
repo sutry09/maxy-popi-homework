@@ -1,8 +1,0 @@
-principal = input('please input the principal: ')
-principal = int(principal)
-rate = input('please input the rate: ')
-rate = int(rate)
-time = input('please input the time: ')
-time = int(time)
-simple_intrest = (principal * rate * time / 100)
-simple_intrest = int(simple_intrest)
